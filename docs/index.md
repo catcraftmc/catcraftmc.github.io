@@ -1,17 +1,13 @@
-# Welcome to MkDocs
+# Новая Вики Кошкокрафта?
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+В разработке!
 
-## Commands
+## Плюсы:
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* `Быстрее` - Прошлая Вики пиздец лагала!
+* `Лучше` - Больше возможностей кастомизации!
+* `Удобнее` - Теперь страницы можно расположить как-угодно!
 
-## Project layout
+## Покупайте донат!
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Это можно сделать на нашем сайте `https://donate.catcraftmc.ru`
