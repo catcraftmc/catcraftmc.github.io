@@ -1,0 +1,13 @@
+site_name: My Docs
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: deep purple
+extra: 
+  consent:
+    title: Одобри печеньки!
+    description: ->
+      Мы используем твои куки! Без понятия что это, но везде просят
+      добавлять твоё согласие, поэтому... Одобри, блин!
+  
