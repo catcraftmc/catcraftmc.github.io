@@ -4,10 +4,28 @@ theme:
   palette:
     scheme: slate
     primary: deep purple
+  language: ru
 extra: 
   consent:
     title: Одобри печеньки!
     description: ->
       Мы используем твои куки! Без понятия что это, но везде просят
       добавлять твоё согласие, поэтому... Одобри, блин!
-  
+  analytics: 
+    provider: google
+    property: G-X3KCR2ZW65
+    feedback:
+      title: Тебе понравилась эта страница?
+      ratings:
+        - icon: material/emoticon-happy-outline
+          name: Да!
+          data: 1
+          note: >-
+            Спасибо за оценку!
+        - icon: material/emoticon-sad-outline
+          name: Нет :(
+          data: 0
+          note: >- 
+            Очень жаль :(
+            Расскажи что именно тут не так в нашем <a href="https://discord.gg/Qfb6NGZkNn" target="_blank" rel="noopener">Дискорде</a>!
+      
