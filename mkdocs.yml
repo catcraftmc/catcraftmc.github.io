@@ -1,7 +1,125 @@
+<<<<<<< Updated upstream
 site_name: My Docs
+=======
+site_name: Вики Кошкокрафта
+site_author: Всекотец
+>>>>>>> Stashed changes
 theme:
   name: material
   palette:
     scheme: slate
+<<<<<<< Updated upstream
     primary: deep purple
   
+=======
+    primary: indigo
+    
+  language: ru
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.tracking
+    - navigation.expand
+    - navigation.prune
+    - navigation.indexes
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - navigation.footer
+    - toc.follow
+  logo: assets/icon.png
+  favicon: assets/icon.png
+  font:
+    text: Open Sans
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.keys
+  - pymdownx.critic
+  - pymdownx.snippets
+  - toc:
+      permalink: true
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.tabbed:
+      alternate_style: true
+  - abbr
+  - def_list
+  - md_in_html
+  - attr_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+extra_css:
+  - stylesheets/extra.css
+plugins:
+  - search
+
+extra: 
+  consent:
+    title: Одобри печеньки!
+    description:
+      Мы используем твои куки! Без понятия что это, но везде просят
+      добавлять твоё согласие, поэтому... Одобри, блин!
+  analytics: 
+    provider: google
+    property: G-X3KCR2ZW65
+    feedback:
+      title: Тебе понравилась эта страница?
+      ratings:
+        - icon: material/emoticon-happy-outline
+          name: Да!
+          data: 1
+          note: >-
+            Спасибо за оценку!
+        - icon: material/emoticon-sad-outline
+          name: Нет :(
+          data: 0
+          note: >- 
+            Очень жаль :(
+            Расскажи что именно тут не так в нашем <a href="https://discord.gg/Qfb6NGZkNn" target="_blank" rel="noopener">Дискорде</a>!
+  social:
+    - icon: simple/vk
+      link: https://vk.com/catcraftmc
+      name: Наш ВК
+    - icon: simple/discord
+      link: https://discord.gg/Qfb6NGZkNn
+      name: Наш Дискорд
+    - icon: material/map
+      link: https://vk.cc/ct7HsI
+      name: Наша Карта
+  
+nav:
+  - 'Домашняя': index.md
+  - 'Информация':
+    - Информация/admins.md
+    - Информация/dict.md
+    - Информация/faq.md
+    - Информация/donate.md
+    - Информация/guide.md
+    - Информация/map.md
+    - Информация/for_media.md
+    - 'Правила и законы':
+      - Информация/Правила/rules.md
+      - Информация/Правила/laws.md
+    - 'Моды':
+      - Информация/Моды/mods.md
+      - Информация/Моды/required_mods.md
+  - 'Геймплей':
+    - "Роллплей":
+      - Геймплей/Роллплей/goverment.md
+    - "Уникальные фишки":
+      - Геймплей/УникальныеФишки/resourcepack.md
+      - Геймплей/УникальныеФишки/npc.md
+>>>>>>> Stashed changes
