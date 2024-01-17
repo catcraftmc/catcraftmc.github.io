@@ -10,6 +10,10 @@
 
 .gold {
     color:gold;
+    border: solid;
+    border-color: #e7b24e;
+    border-width: 2px;
+    border-radius: 5px;
 } 
 
 @keyframes lights {
@@ -62,4 +66,52 @@
 
 .neon {
     animation: lights 5s 750ms linear infinite;
+}
+
+@keyframes sinusoidalWave {
+  0%, 100% {
+      transform: translate(0, 0);
+  }
+  25% {
+      transform: translate(10px, -10px); /* Moves right and up */
+  }
+  50% {
+      transform: translate(20px, 0); /* Moves further right */
+  }
+  75% {
+      transform: translate(10px, 10px); /* Moves right and down */
+  }
+}
+
+.moving {
+  display: inline-block;
+  animation: sinusoidalWave 2s infinite linear;
+}
+
+@keyframes waveAnimation {
+  0%, 100% {
+      transform: translateY(0);
+  }
+  50% {
+      transform: translateY(-5px); /* Change the value for different wave height */
+  }
+}
+
+.wave {
+  display: inline-block;
+  animation: waveAnimation 2s infinite ease-in-out;
+}
+
+@keyframes rainbowAnimation {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+.rainbow {
+  background: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red);
+  -webkit-background-clip: text;
+  color: transparent; /* Hide the original text color */
+  background-size: 200% auto;
+  animation: rainbowAnimation 5s linear infinite;
 }
