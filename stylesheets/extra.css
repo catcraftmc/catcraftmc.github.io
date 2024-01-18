@@ -3,18 +3,36 @@
   --md-primary-fg-color--light: #ECB7B7;
   --md-primary-fg-color--dark:  #90030C;
 }
-
 .red {
     color:red;
 }
 
 .gold {
     color:gold;
+} 
+
+/* Это - разделение полосочками страничками в левом меню*/
+.md-nav__item.md-nav__item--section.md-nav__item--nested {
+    border-top: 1px solid #353535;
+}
+
+/* Это - разделение полосочками между верхними табами*/
+.md-tabs__item{
+  border-right: 1px solid #526de7;
+}
+
+/* Это - делает цвет жёлтым с золотым обрамлением*/
+.gold-outline {
+    color:gold;
     border: solid;
     border-color: #e7b24e;
     border-width: 2px;
     border-radius: 5px;
-} 
+}
+
+.md-main__inner {
+  colo: #000000;
+}
 
 @keyframes lights {
     0% {
