@@ -11,6 +11,14 @@
     color:gold;
 } 
 
+.purple {
+  color:#7140e2;
+}
+
+.bold {
+  font-weight: bold;
+}
+
 /* Это - разделение полосочками страничками в левом меню*/
 .md-nav__item.md-nav__item--section.md-nav__item--nested {
     border-top: 1px solid #353535;
@@ -30,8 +38,27 @@
     border-radius: 5px;
 }
 
+.big-button {
+  width: 100%;
+}
+
 .md-main__inner {
   colo: #000000;
+}
+
+.md-typeset h1 {
+  color: #8758f3; 
+  font-weight: bold;
+}
+
+.md-typeset h2 {
+  color: #8f65f1; 
+  font-weight: bold;
+}
+
+.shadow {
+  text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+  color: #7140e2;
 }
 
 @keyframes lights {
