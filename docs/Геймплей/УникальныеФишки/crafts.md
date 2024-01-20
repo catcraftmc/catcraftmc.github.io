@@ -1,5 +1,6 @@
 ---
 icon: material/tools
+title: Кастомные крафты
 ---
 
 <!-- Yandex.RTB R-A-5374421-1 -->

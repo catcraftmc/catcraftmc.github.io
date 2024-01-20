@@ -1,3 +1,18 @@
+---
+title: Как загрузить и поставить свой скин?
+---
+
+<!-- Yandex.RTB R-A-5374421-1 -->
+<div id="yandex_rtb_R-A-5374421-1"></div>
+<script>
+window.yaContextCb.push(()=>{
+	Ya.Context.AdvManager.render({
+		"blockId": "R-A-5374421-1",
+		"renderTo": "yandex_rtb_R-A-5374421-1"
+	})
+})
+</script>
+
 # Как загрузить и поставить свой скин?
 
 Для начала тебе нужно иметь файл скина у себя на руках. Он должен быть без фона и в формате `.png`.
