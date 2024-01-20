@@ -1,17 +1,11 @@
-<<<<<<< Updated upstream
-site_name: My Docs
-=======
 site_name: Вики Кошкокрафта
 site_author: Всекотец
->>>>>>> Stashed changes
+site_url: https://wiki.catcraftmc.ru/
 theme:
   name: material
+  custom_dir: overrides
   palette:
     scheme: slate
-<<<<<<< Updated upstream
-    primary: deep purple
-  
-=======
     primary: indigo
     
   language: ru
@@ -39,6 +33,7 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.keys
+  - tables
   - pymdownx.critic
   - pymdownx.snippets
   - toc:
@@ -65,7 +60,11 @@ extra_css:
   - stylesheets/extra.css
 plugins:
   - search
-
+extra_javascript:
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/tablesort.js
+  - javascripts/players.js
+  - javascripts/effects.js
 extra: 
   consent:
     title: Одобри печеньки!
@@ -122,4 +121,31 @@ nav:
     - "Уникальные фишки":
       - Геймплей/УникальныеФишки/resourcepack.md
       - Геймплей/УникальныеФишки/npc.md
->>>>>>> Stashed changes
+      - Геймплей/УникальныеФишки/crafts.md
+      - Геймплей/УникальныеФишки/datapacks.md
+      - Геймплей/УникальныеФишки/artmap.md
+      - Геймплей/УникальныеФишки/clans.md
+      - Геймплей/УникальныеФишки/armorstand.md
+      - "Кастомные модели персонажа":
+        - Геймплей/УникальныеФишки/cpm/index.md
+        - Геймплей/УникальныеФишки/cpm/cpm_guide.md
+      - "Геймплей/УникальныеФишки/brewery.md"
+      - "Рыбалка":
+        - Геймплей/УникальныеФишки/рыбалка/index.md
+        - Геймплей/УникальныеФишки/рыбалка/fishing_gamelist.md
+      - Геймплей/УникальныеФишки/voicechat.md
+    - "Команды":
+      - Геймплей/Команды/ingame.md
+      - Геймплей/Команды/discord.md
+    - "Награды игрокам":
+      - Геймплей/Награды/index.md
+      - Геймплей/Награды/catpass.md
+  - "Гайды":
+    - Гайды/set_skin.md
+    - Гайды/mod_download.md
+    - Гайды/mod_errors.md
+    - Гайды/launcher.md
+  - "История сервера":
+    - ИсторияСервера/1season.md
+    - ИсторияСервера/2season.md
+    - ИсторияСервера/3season.md

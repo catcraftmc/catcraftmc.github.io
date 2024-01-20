@@ -3,7 +3,6 @@
   --md-primary-fg-color--light: #ECB7B7;
   --md-primary-fg-color--dark:  #90030C;
 }
-
 .red {
     color:red;
 }
@@ -11,6 +10,56 @@
 .gold {
     color:gold;
 } 
+
+.purple {
+  color:#7140e2;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+/* Это - разделение полосочками страничками в левом меню*/
+.md-nav__item.md-nav__item--section.md-nav__item--nested {
+    border-top: 1px solid #353535;
+}
+
+/* Это - разделение полосочками между верхними табами*/
+.md-tabs__item{
+  border-right: 1px solid #526de7;
+}
+
+/* Это - делает цвет жёлтым с золотым обрамлением*/
+.gold-outline {
+    color:gold;
+    border: solid;
+    border-color: #e7b24e;
+    border-width: 2px;
+    border-radius: 5px;
+}
+
+.big-button {
+  width: 100%;
+}
+
+.md-main__inner {
+  colo: #000000;
+}
+
+.md-typeset h1 {
+  color: #8758f3; 
+  font-weight: bold;
+}
+
+.md-typeset h2 {
+  color: #8f65f1; 
+  font-weight: bold;
+}
+
+.shadow {
+  text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+  color: #7140e2;
+}
 
 @keyframes lights {
     0% {
@@ -62,4 +111,52 @@
 
 .neon {
     animation: lights 5s 750ms linear infinite;
+}
+
+@keyframes sinusoidalWave {
+  0%, 100% {
+      transform: translate(0, 0);
+  }
+  25% {
+      transform: translate(10px, -10px); /* Moves right and up */
+  }
+  50% {
+      transform: translate(20px, 0); /* Moves further right */
+  }
+  75% {
+      transform: translate(10px, 10px); /* Moves right and down */
+  }
+}
+
+.moving {
+  display: inline-block;
+  animation: sinusoidalWave 2s infinite linear;
+}
+
+@keyframes waveAnimation {
+  0%, 100% {
+      transform: translateY(0);
+  }
+  50% {
+      transform: translateY(-5px); /* Change the value for different wave height */
+  }
+}
+
+.wave {
+  display: inline-block;
+  animation: waveAnimation 2s infinite ease-in-out;
+}
+
+@keyframes rainbowAnimation {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+.rainbow {
+  background: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red);
+  -webkit-background-clip: text;
+  color: transparent; /* Hide the original text color */
+  background-size: 200% auto;
+  animation: rainbowAnimation 5s linear infinite;
 }
