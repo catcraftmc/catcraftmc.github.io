@@ -84,7 +84,7 @@ toc_depth: 5
 
         Выдаётся на месяц :3 
 
-        [:fontawesome-solid-money-bill-trend-up: Купить на сайте](https://donate.catcraftmc.ru){ .md-button }
+        [:fontawesome-solid-money-bill-trend-up: Купить на сайте](https://donate.catcraftmc.ru){ .md-button .md-button--primary }
 
     === "Котик++"
         - `/sethome` `/home` - одна точка дома. КД - 10 минут
@@ -125,7 +125,7 @@ toc_depth: 5
 
         Выдаётся на месяц :3
 
-        [:fontawesome-solid-money-bill-trend-up: Купить на сайте](https://donate.catcraftmc.ru){ .md-button }
+        [:fontawesome-solid-money-bill-trend-up: Купить на сайте](https://donate.catcraftmc.ru){ .md-button .md-button--primary }
 
     === "Котик+++"
         - `/sethome` `/home` - одна точка дома. КД - 10 минут
@@ -174,33 +174,104 @@ toc_depth: 5
 
         Выдаётся на месяц :3   
 
-        [:fontawesome-solid-money-bill-trend-up: Купить на сайте](https://donate.catcraftmc.ru){ .md-button }
+        [:fontawesome-solid-money-bill-trend-up: Купить на сайте](https://donate.catcraftmc.ru){ .md-button .md-button--primary }
 
 ## Облики
 
 Уникальная вещь на нашем сервере! Ты можешь купить скины для своих предметов или брони!
 
 ### Сейчас у нас есть:
-- Набор <span class="gold">ChainsawMan</span>
 
-    - Две Руки-бензопилы, шлем Человека-бензопилы, три тотема Пауэр!
+<div class="grid cards" markdown>
 
-- Набор <span class="gold">Jojo</span>
+-   Набор <span class="gold shadow">**Chainsaw Man**</span>
 
-    - 9 тотемов с разными стендами!
+    ---
 
-- Набор <span class="red">BERSERK</span>
+    ![chainsaw](../assets/donates/skins/chainsawman.png){ width=400 }
 
-    - Легендарный Убийца Драконов, полный костюм Берсерка!
+    ---
 
-- Набор <span class="gold">Неоновое творение</span>
+    Набор скинов из аниме <span class="gold shadow">Человек-бензопила</span>!
+    
+    В наборе:
 
-    - Набор анимированных инструментов в стилистике Киберпанк!
+    - Два меча-бензопилы
 
-- Набор <span class="gold">Цветущей Вишни</span>
+    - Шлем человека-бензопилы
 
-    - Милый набор инструментов в вишнёвом стиле!
+    - Три тотема Пауэр
 
-- Набор <span class="gold">Стимпанковское безумие</span>
+- Набор <span class="purple shadow">**Jojo**</span>
 
-    - Набор настоящих работяг в стиле Стимпанк, тоже анимировано!
+    ---
+
+    ![jojo](../assets/donates/skins/jojo.png){ width=400 }
+
+    ---
+
+    Набор скинов на тотемы из <span class="purple">Jojo</span>!
+
+    В наборе 9 тотемов бессмертия с различными стендами!
+
+- Набор <span class="red shadow">**BERSERK**</span>
+
+    ---
+
+    ![berserk](../assets/donates/skins/berserk.png){ width=400 }
+
+    ---
+
+    Набор скинов из манги и аниме <span class="red shadow">**БЕРСЕРК**</span>
+
+    В наборе:
+    
+    - Сет брони Берсерка
+
+    - Убийца драконов
+
+    - 3 тотема Бехелит
+
+- Набор <span class="gold shadow">**Неоновое творение**</span>
+
+    ---
+
+    ![neon](../assets/donates/skins/neon.png){ width=400 }
+
+    ---
+
+    Набор **анимированных** инструментов в стилистике Киберпанк!
+
+    В наборе:
+
+    - Инструменты
+
+    - Маска
+
+- Набор <span class="pink shadow">**Цветущей Вишни**</span>
+
+    ---
+
+    ![cherry](../assets/donates/skins/cherry.png){ width=400 }
+
+    ---
+
+    Набор инструментов, созданных из стали, выкопанной из под цветущей сакуры...
+
+    В наборе все инструменты в вишнёвом стиле.
+
+- Набор <span class="gold shadow">**Стимпанковское безумие**</span>
+
+    ---
+
+    ![steampunk](../assets/donates/skins/steampunk.png){ width=400 }
+
+    ---
+
+    Набор настоящих работяг в стиле Стимпанк! Набор **полностью** анимирован!
+
+    В наборе все инструменты в стиле Стимпанк!
+
+</div>
+
+[ :material-arrow-right-top: Купить на нашем сайте ](https://donate.catcraftmc.ru){ .md-button .big-button .md-button--primary }

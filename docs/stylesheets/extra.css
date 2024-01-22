@@ -4,15 +4,28 @@
   --md-primary-fg-color--dark:  #90030C;
 }
 .red {
-    color:red;
+    color:rgb(209, 6, 6);
 }
 
 .gold {
     color:gold;
 } 
 
+.green {
+  color: #13c422;
+}
+
 .purple {
   color:#7140e2;
+}
+
+.pink {
+  color:#eba8a8;
+}
+
+code {
+  color: white;
+  font-weight: bold;
 }
 
 .bold {
@@ -42,10 +55,6 @@
   width: 100%;
 }
 
-.md-main__inner {
-  colo: #000000;
-}
-
 .md-typeset h1 {
   color: #8758f3; 
   font-weight: bold;
@@ -58,7 +67,6 @@
 
 .shadow {
   text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
-  color: #7140e2;
 }
 
 @keyframes lights {
