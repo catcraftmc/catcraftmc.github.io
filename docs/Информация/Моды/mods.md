@@ -33,7 +33,7 @@ icon: material/order-alphabetical-descending
 
     ---
     ![cit](https://cdn.modrinth.com/data/otVJckYQ/icon.png){ align=right width="100" }
-    Замена многих функций Optifine для текстур предметов. Без него ~50% ресурспака не будет работать =(
+    Замена многих функций Optifine для текстур предметов. Как пример - переименование текстур через наковальню!
 
     [:octicons-arrow-right-24: Перейти на сайт мода](https://modrinth.com/mod/cit-resewn)
 
@@ -45,7 +45,7 @@ icon: material/order-alphabetical-descending
 
     [:octicons-arrow-right-24: Перейти на сайт мода](https://modrinth.com/plugin/custom-player-models)
 
--    :material-loading:__RRLS__
+-    :material-loading:{ .rotate-animation }__RRLS__
 
     ---
     ![rrls](https://cdn.modrinth.com/data/ZP7xHXtw/7a416b09817a79adfa6a3ef9368990135e276821.png){ align=right width="100" }

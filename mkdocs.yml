@@ -98,7 +98,8 @@ extra:
     - icon: material/map
       link: https://vk.cc/ct7HsI
       name: Наша Карта
-  
+extra_files:
+  - CNAME
 nav:
   - 'Домашняя': index.md
   - 'Информация':
@@ -108,6 +109,7 @@ nav:
     - Информация/donate.md
     - Информация/guide.md
     - Информация/map.md
+  
     - Информация/for_media.md
     - 'Правила и законы':
       - Информация/Правила/rules.md
@@ -151,3 +153,5 @@ nav:
     - ИсторияСервера/3season.md
     - ИсторияСервера/4season.md
     - ИсторияСервера/5season.md
+  - 'Онлайн-карта': 
+    - "Информация/onlinemap.md"

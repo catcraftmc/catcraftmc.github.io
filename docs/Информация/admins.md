@@ -6,7 +6,7 @@
 
 <div class="grid cards" markdown>
 
--   :material-star:{ .lg .middle } __Szarkan, Серёжа Котиков__
+-   :material-star:{ .lg .middle .shadow } <span class="shadow">__Szarkan, Серёжа Котиков__</span>
 
     ![Szarkan](https://cravatar.eu/avatar/Szarkan/600.png){ align=right width="150" }
 
@@ -25,7 +25,7 @@
 </div>
 <div class="grid cards" markdown>
 
--   :material-star:{ .lg .middle } __bykkake747, Яна Симонец__
+-   :material-star:{ .lg .middle } <span class="shadow">__bykkake747, Яна Симонец__</span>
 
     ![bykke747](https://cravatar.eu/avatar/bykkake747/600.png){ align=right width="150" }
 
@@ -45,7 +45,7 @@
 
 <div class="grid cards" markdown>
 
--   :material-star:{ .lg .middle } __CharaBell, Натал**и**я__
+-   :material-star:{ .lg .middle } <span class="shadow">__CharaBell, Натал*и*я__</span>
 
     ![CharaBell](https://cravatar.eu/avatar/CharaBell/600.png){ align=right width="150" }
 
@@ -61,7 +61,7 @@
 
 <div class="grid cards" markdown>
 
--   :octicons-star-16:{ .lg .middle } __GURZA__
+-   :octicons-star-16:{ .lg .middle } <span class="shadow">__GURZA__</span>
 
     ![GURZA](https://cravatar.eu/avatar/GURZA/600.png){ align=right width="150" }
 
@@ -75,7 +75,7 @@
 
 <div class="grid cards" markdown>
 
--   :octicons-star-16:{ .lg .middle } __Ты!__
+-   :octicons-star-16:{ .lg .middle }<span class="shadow"> __Ты!__</span>
 
     ---
 

@@ -10,11 +10,11 @@ icon: fontawesome/solid/house
 
 <h1 class="purple shadow">Кошкокрафт</h1>
 
-Привет! Ты в Энциклопедии <span class="gold">Кошкокрафта</span> - Ванилла+ сервера с элементами РП! Здесь мы стараемся разбавить ванильный майнкрафт полезными и крутыми фишками приправляя это РП и самоуправлением игроков!
+Привет! Ты в Энциклопедии <span class="gold shadow">Кошкокрафта</span> - Ванилла+ сервера с элементами РП! Здесь мы стараемся разбавить ванильный майнкрафт полезными и крутыми фишками приправляя это РП и самоуправлением игроков!
 
-[ :fontawesome-solid-people-group: Сейчас на сервере <span id="player-count"> ... </span>](https://vk.cc/ct7HsI){ .md-button .md-button--primary }
+<!-- [ :fontawesome-solid-people-group: Сейчас на сервере <span id="player-count"> ... </span>](https://vk.cc/ct7HsI){ .md-button .md-button--primary }
 [ :material-cash: Донатик](https://donate.catcraftmc.ru){ .md-button .md-button--primary }
-[ :simple-discord: Наш Дискорд](https://discord.gg/Qfb6NGZkNn){ .md-button .md-button--primary }
+[ :simple-discord: Наш Дискорд](https://discord.gg/Qfb6NGZkNn){ .md-button .md-button--primary } -->
 
 ***
 
@@ -40,11 +40,13 @@ icon: fontawesome/solid/house
 
 - Лучшая администрация, самые крутые игроки и просто лучший сервер, который ты увидишь!
 
+
+
+# **Как к нам попасть?**
 !!! success "Важное уточнение"
     Наш сервер **абсолютно** бесплатный! Всё что тебе нужно - проследовать пунктам ниже :3<br>
     *(если тебе конечно не лень писать заявку, и ты хочешь купить вход без заявки)*
 
-# **Как к нам попасть?**
 Всё очень просто! У тебя есть два варианта:
 
 ![catcraft](assets/screenshots/players.jpg){ align=right width="600" }
@@ -65,17 +67,4 @@ icon: fontawesome/solid/house
 [:simple-vk: ВК](https://vk.com/catcraftmc){ .md-button }
 [:simple-discord: Наш Дискорд](https://discord.gg/Qfb6NGZkNn){ .md-button }
 [:simple-youtube: Наш YouTube](https://youtube.com/@catcraftminecraft){ .md-button }
-[:map: Онлайн-карта сервера](https://vk.cc/ct7HsI){ .md-button }
-
-<div>
-    <!-- Yandex.RTB R-A-5374421-1 -->
-    <div id="yandex_rtb_R-A-5374421-1"></div>
-    <script>
-    window.yaContextCb.push(()=>{
-        Ya.Context.AdvManager.render({
-            "blockId": "R-A-5374421-1",
-            "renderTo": "yandex_rtb_R-A-5374421-1"
-        })
-    })
-    </script>
-</div>
+[:map: Онлайн-карта сервера](./Информация/onlinemap.md){ .md-button }

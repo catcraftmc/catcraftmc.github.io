@@ -3,6 +3,24 @@
   --md-primary-fg-color--light: #ECB7B7;
   --md-primary-fg-color--dark:  #90030C;
 }
+
+.md-typeset .admonition,
+.md-typeset details {
+  border-width: 1px;
+  border-left-width: 4px;
+}
+
+iframe {
+  width: 100%;
+  height: 100vh; /* Высота вьюпорта */
+  border: none;
+}
+
+#custom-page-style .md-grid {
+  max-width: none;
+}
+
+
 .red {
     color:rgb(209, 6, 6);
 }
@@ -167,4 +185,18 @@ code {
   color: transparent; /* Hide the original text color */
   background-size: 200% auto;
   animation: rainbowAnimation 5s linear infinite;
+}
+
+
+@keyframes rotate-animation {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.rotate-animation {
+  animation: rotate-animation 2s infinite linear;
 }
