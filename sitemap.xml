@@ -2,207 +2,217 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://wiki.catcraftmc.ru/</loc>
-         <lastmod>2024-02-02</lastmod>
+         <lastmod>2024-02-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wiki.catcraftmc.ru/%D0%93%D0%B0%D0%B9%D0%B4%D1%8B/gksb_guide/</loc>
+         <lastmod>2024-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.catcraftmc.ru/%D0%93%D0%B0%D0%B9%D0%B4%D1%8B/launcher/</loc>
-         <lastmod>2024-02-02</lastmod>
+         <lastmod>2024-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.catcraftmc.ru/%D0%93%D0%B0%D0%B9%D0%B4%D1%8B/mod_download/</loc>
-         <lastmod>2024-02-02</lastmod>
+         <lastmod>2024-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.catcraftmc.ru/%D0%93%D0%B0%D0%B9%D0%B4%D1%8B/mod_errors/</loc>
-         <lastmod>2024-02-02</lastmod>
+         <lastmod>2024-02-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wiki.catcraftmc.ru/%D0%93%D0%B0%D0%B9%D0%B4%D1%8B/police_guide/</loc>
+         <lastmod>2024-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.catcraftmc.ru/%D0%93%D0%B0%D0%B9%D0%B4%D1%8B/set_skin/</loc>
-         <lastmod>2024-02-02</lastmod>
+         <lastmod>2024-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.catcraftmc.ru/%D0%93%D0%B5%D0%B9%D0%BC%D0%BF%D0%BB%D0%B5%D0%B9/%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B/discord/</loc>
-         <lastmod>2024-02-02</lastmod>
+         <lastmod>2024-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.catcraftmc.ru/%D0%93%D0%B5%D0%B9%D0%BC%D0%BF%D0%BB%D0%B5%D0%B9/%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B/ingame/</loc>
-         <lastmod>2024-02-02</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://wiki.catcraftmc.ru/%D0%93%D0%B5%D0%B9%D0%BC%D0%BF%D0%BB%D0%B5%D0%B9/%D0%9D%D0%B0%D0%B3%D1%80%D0%B0%D0%B4%D1%8B/</loc>
-         <lastmod>2024-02-02</lastmod>
+         <lastmod>2024-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.catcraftmc.ru/%D0%93%D0%B5%D0%B9%D0%BC%D0%BF%D0%BB%D0%B5%D0%B9/%D0%9D%D0%B0%D0%B3%D1%80%D0%B0%D0%B4%D1%8B/catpass/</loc>
-         <lastmod>2024-02-02</lastmod>
+         <lastmod>2024-02-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wiki.catcraftmc.ru/%D0%93%D0%B5%D0%B9%D0%BC%D0%BF%D0%BB%D0%B5%D0%B9/%D0%9D%D0%B0%D0%B3%D1%80%D0%B0%D0%B4%D1%8B/list/</loc>
+         <lastmod>2024-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.catcraftmc.ru/%D0%93%D0%B5%D0%B9%D0%BC%D0%BF%D0%BB%D0%B5%D0%B9/%D0%A0%D0%BE%D0%BB%D0%BB%D0%BF%D0%BB%D0%B5%D0%B9/goverment/</loc>
-         <lastmod>2024-02-02</lastmod>
+         <lastmod>2024-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.catcraftmc.ru/%D0%93%D0%B5%D0%B9%D0%BC%D0%BF%D0%BB%D0%B5%D0%B9/%D0%A3%D0%BD%D0%B8%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%D0%A4%D0%B8%D1%88%D0%BA%D0%B8/armorstand/</loc>
-         <lastmod>2024-02-02</lastmod>
+         <lastmod>2024-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.catcraftmc.ru/%D0%93%D0%B5%D0%B9%D0%BC%D0%BF%D0%BB%D0%B5%D0%B9/%D0%A3%D0%BD%D0%B8%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%D0%A4%D0%B8%D1%88%D0%BA%D0%B8/artmap/</loc>
-         <lastmod>2024-02-02</lastmod>
+         <lastmod>2024-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.catcraftmc.ru/%D0%93%D0%B5%D0%B9%D0%BC%D0%BF%D0%BB%D0%B5%D0%B9/%D0%A3%D0%BD%D0%B8%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%D0%A4%D0%B8%D1%88%D0%BA%D0%B8/brewery/</loc>
-         <lastmod>2024-02-02</lastmod>
+         <lastmod>2024-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.catcraftmc.ru/%D0%93%D0%B5%D0%B9%D0%BC%D0%BF%D0%BB%D0%B5%D0%B9/%D0%A3%D0%BD%D0%B8%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%D0%A4%D0%B8%D1%88%D0%BA%D0%B8/catpass/</loc>
-         <lastmod>2024-02-02</lastmod>
+         <lastmod>2024-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.catcraftmc.ru/%D0%93%D0%B5%D0%B9%D0%BC%D0%BF%D0%BB%D0%B5%D0%B9/%D0%A3%D0%BD%D0%B8%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%D0%A4%D0%B8%D1%88%D0%BA%D0%B8/clans/</loc>
-         <lastmod>2024-02-02</lastmod>
+         <lastmod>2024-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.catcraftmc.ru/%D0%93%D0%B5%D0%B9%D0%BC%D0%BF%D0%BB%D0%B5%D0%B9/%D0%A3%D0%BD%D0%B8%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%D0%A4%D0%B8%D1%88%D0%BA%D0%B8/crafts/</loc>
-         <lastmod>2024-02-02</lastmod>
+         <lastmod>2024-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.catcraftmc.ru/%D0%93%D0%B5%D0%B9%D0%BC%D0%BF%D0%BB%D0%B5%D0%B9/%D0%A3%D0%BD%D0%B8%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%D0%A4%D0%B8%D1%88%D0%BA%D0%B8/datapacks/</loc>
-         <lastmod>2024-02-02</lastmod>
+         <lastmod>2024-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.catcraftmc.ru/%D0%93%D0%B5%D0%B9%D0%BC%D0%BF%D0%BB%D0%B5%D0%B9/%D0%A3%D0%BD%D0%B8%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%D0%A4%D0%B8%D1%88%D0%BA%D0%B8/npc/</loc>
-         <lastmod>2024-02-02</lastmod>
+         <lastmod>2024-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.catcraftmc.ru/%D0%93%D0%B5%D0%B9%D0%BC%D0%BF%D0%BB%D0%B5%D0%B9/%D0%A3%D0%BD%D0%B8%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%D0%A4%D0%B8%D1%88%D0%BA%D0%B8/resourcepack/</loc>
-         <lastmod>2024-02-02</lastmod>
+         <lastmod>2024-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.catcraftmc.ru/%D0%93%D0%B5%D0%B9%D0%BC%D0%BF%D0%BB%D0%B5%D0%B9/%D0%A3%D0%BD%D0%B8%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%D0%A4%D0%B8%D1%88%D0%BA%D0%B8/voicechat/</loc>
-         <lastmod>2024-02-02</lastmod>
+         <lastmod>2024-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.catcraftmc.ru/%D0%93%D0%B5%D0%B9%D0%BC%D0%BF%D0%BB%D0%B5%D0%B9/%D0%A3%D0%BD%D0%B8%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%D0%A4%D0%B8%D1%88%D0%BA%D0%B8/cpm/</loc>
-         <lastmod>2024-02-02</lastmod>
+         <lastmod>2024-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.catcraftmc.ru/%D0%93%D0%B5%D0%B9%D0%BC%D0%BF%D0%BB%D0%B5%D0%B9/%D0%A3%D0%BD%D0%B8%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%D0%A4%D0%B8%D1%88%D0%BA%D0%B8/cpm/cpm_guide/</loc>
-         <lastmod>2024-02-02</lastmod>
+         <lastmod>2024-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.catcraftmc.ru/%D0%93%D0%B5%D0%B9%D0%BC%D0%BF%D0%BB%D0%B5%D0%B9/%D0%A3%D0%BD%D0%B8%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%D0%A4%D0%B8%D1%88%D0%BA%D0%B8/%D1%80%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0/</loc>
-         <lastmod>2024-02-02</lastmod>
+         <lastmod>2024-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.catcraftmc.ru/%D0%93%D0%B5%D0%B9%D0%BC%D0%BF%D0%BB%D0%B5%D0%B9/%D0%A3%D0%BD%D0%B8%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%D0%A4%D0%B8%D1%88%D0%BA%D0%B8/%D1%80%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0/fishing_gamelist/</loc>
-         <lastmod>2024-02-02</lastmod>
+         <lastmod>2024-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.catcraftmc.ru/%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F/admins/</loc>
-         <lastmod>2024-02-02</lastmod>
+         <lastmod>2024-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.catcraftmc.ru/%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F/dict/</loc>
-         <lastmod>2024-02-02</lastmod>
+         <lastmod>2024-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.catcraftmc.ru/%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F/donate/</loc>
-         <lastmod>2024-02-02</lastmod>
+         <lastmod>2024-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.catcraftmc.ru/%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F/faq/</loc>
-         <lastmod>2024-02-02</lastmod>
+         <lastmod>2024-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.catcraftmc.ru/%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F/for_media/</loc>
-         <lastmod>2024-02-02</lastmod>
+         <lastmod>2024-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.catcraftmc.ru/%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F/guide/</loc>
-         <lastmod>2024-02-02</lastmod>
+         <lastmod>2024-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.catcraftmc.ru/%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F/map/</loc>
-         <lastmod>2024-02-02</lastmod>
+         <lastmod>2024-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.catcraftmc.ru/%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F/onlinemap/</loc>
-         <lastmod>2024-02-02</lastmod>
+         <lastmod>2024-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.catcraftmc.ru/%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F/%D0%9C%D0%BE%D0%B4%D1%8B/mods/</loc>
-         <lastmod>2024-02-02</lastmod>
+         <lastmod>2024-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.catcraftmc.ru/%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F/%D0%9C%D0%BE%D0%B4%D1%8B/required_mods/</loc>
-         <lastmod>2024-02-02</lastmod>
+         <lastmod>2024-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.catcraftmc.ru/%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0/laws/</loc>
-         <lastmod>2024-02-02</lastmod>
+         <lastmod>2024-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.catcraftmc.ru/%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0/rules/</loc>
-         <lastmod>2024-02-02</lastmod>
+         <lastmod>2024-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.catcraftmc.ru/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0/1season/</loc>
-         <lastmod>2024-02-02</lastmod>
+         <lastmod>2024-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.catcraftmc.ru/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0/2season/</loc>
-         <lastmod>2024-02-02</lastmod>
+         <lastmod>2024-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.catcraftmc.ru/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0/3season/</loc>
-         <lastmod>2024-02-02</lastmod>
+         <lastmod>2024-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.catcraftmc.ru/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0/4season/</loc>
-         <lastmod>2024-02-02</lastmod>
+         <lastmod>2024-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.catcraftmc.ru/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0/5season/</loc>
-         <lastmod>2024-02-02</lastmod>
+         <lastmod>2024-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
