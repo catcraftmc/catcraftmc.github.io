@@ -29,6 +29,9 @@ theme:
   font:
     text: Open Sans
 markdown_extensions:
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
   - admonition
   - pymdownx.details
   - pymdownx.superfences
@@ -63,7 +66,7 @@ plugins:
 extra_javascript:
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
   - javascripts/tablesort.js
-  - javascripts/players.js
+ # - javascripts/players.js
   - javascripts/effects.js
 extra: 
   consent:
@@ -98,8 +101,6 @@ extra:
     - icon: material/map
       link: https://vk.cc/ct7HsI
       name: Наша Карта
-extra_files:
-  - CNAME
 nav:
   - 'Домашняя': index.md
   - 'Информация':
@@ -121,6 +122,7 @@ nav:
     - "Роллплей":
       - Геймплей/Роллплей/goverment.md
     - "Уникальные фишки":
+      - Геймплей/УникальныеФишки/qol.md
       - Геймплей/УникальныеФишки/resourcepack.md
       - Геймплей/УникальныеФишки/npc.md
       - Геймплей/УникальныеФишки/crafts.md
@@ -128,6 +130,7 @@ nav:
       - Геймплей/УникальныеФишки/artmap.md
       - Геймплей/УникальныеФишки/clans.md
       - Геймплей/УникальныеФишки/armorstand.md
+      - Геймплей/УникальныеФишки/wandering_trader.md
       - "Кастомные модели персонажа":
         - Геймплей/УникальныеФишки/cpm/index.md
         - Геймплей/УникальныеФишки/cpm/cpm_guide.md
@@ -136,12 +139,25 @@ nav:
         - Геймплей/УникальныеФишки/рыбалка/index.md
         - Геймплей/УникальныеФишки/рыбалка/fishing_gamelist.md
       - Геймплей/УникальныеФишки/voicechat.md
+    - "Награды игрокам":
+      - Геймплей/Награды/list.md
+      - Геймплей/Награды/catpass.md
     - "Команды":
       - Геймплей/Команды/ingame.md
       - Геймплей/Команды/discord.md
-    - "Награды игрокам":
-      - Геймплей/Награды/index.md
-      - Геймплей/Награды/catpass.md
+  - "Предметы":
+    - "Накладываемое":
+      - "Предметы/Накладываемое/cattrack.md"
+      - "Предметы/Накладываемое/scroll.md"
+    - "Блоки":
+      - "Предметы/Блоки/gycha.md"
+      - "Предметы/Блоки/compressed.md"
+      - "Предметы/Блоки/reinforced.md"
+      - "Предметы/Блоки/light.md"
+    - "Применяемое":
+      - "Предметы/Применяемое/kplus.md"
+    - "Предметы":
+      - "Предметы/Предметы/gh.md"
   - "Гайды":
     - Гайды/set_skin.md
     - Гайды/mod_download.md
@@ -153,5 +169,3 @@ nav:
     - ИсторияСервера/3season.md
     - ИсторияСервера/4season.md
     - ИсторияСервера/5season.md
-  - 'Онлайн-карта': 
-    - "Информация/onlinemap.md"

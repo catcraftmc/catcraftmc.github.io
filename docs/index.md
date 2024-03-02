@@ -8,19 +8,20 @@ hide:
 icon: fontawesome/solid/house
 ---
 
-<h1 class="purple shadow">Кошкокрафт</h1>
+<figure markdown>
+![logo](../assets/logo.png){ align=left width=600 .image-shadow }
+</figure>
 
-Привет! Ты в Энциклопедии <span class="gold shadow">Кошкокрафта</span> - Ванилла+ сервера с элементами РП! Здесь мы стараемся разбавить ванильный майнкрафт полезными и крутыми фишками приправляя это РП и самоуправлением игроков!
+<p class="shadow margin-center bigger-text">Привет! Ты в Энциклопедии <span class="gold shadow bold">Кошкокрафта</span>! <br>
+Здесь мы стараемся разбавить ванильный Майнкрафт полезными и крутыми фишками, приправляя это элементами РП и самоуправлением игроков!</p>
 
-<!-- [ :fontawesome-solid-people-group: Сейчас на сервере <span id="player-count"> ... </span>](https://vk.cc/ct7HsI){ .md-button .md-button--primary }
-[ :material-cash: Донатик](https://donate.catcraftmc.ru){ .md-button .md-button--primary }
-[ :simple-discord: Наш Дискорд](https://discord.gg/Qfb6NGZkNn){ .md-button .md-button--primary } -->
+<p class="shadow margin-center bigger-text">Мы играем на <span class="bold">Java 1.20.1</span>!</p>
 
 ***
 
-![catcraft](assets/screenshots/catcraft.jpg){ align=right width="600" }
+![catcraft](assets/screenshots/catcraft.jpg){ align=right width="600" .image-shadow }
 
-## У нас ты найдёшь:
+<h1 class="shadow">У нас ты найдёшь</h1>
 
 - [Кастомную рыбалку](../Геймплей/УникальныеФишки/рыбалка/), [NPC с квестами](../Геймплей/УникальныеФишки/npc), [1000+ достижения](../Геймплей/УникальныеФишки/datapacks), [свой собственный ресурспак](../Геймплей/УникальныеФишки/resourcepack) с тонной контента!
 
@@ -42,14 +43,15 @@ icon: fontawesome/solid/house
 
 
 
-# **Как к нам попасть?**
+<h1 class="shadow">Как к нам попасть?</h1>
+
 !!! success "Важное уточнение"
     Наш сервер **абсолютно** бесплатный! Всё что тебе нужно - проследовать пунктам ниже :3<br>
     *(если тебе конечно не лень писать заявку, и ты хочешь купить вход без заявки)*
 
 Всё очень просто! У тебя есть два варианта:
 
-![catcraft](assets/screenshots/players.jpg){ align=right width="600" }
+![catcraft](assets/screenshots/players.jpg){ align=right width="600" .image-shadow }
 
 - Зайти в наш [Дискорд](https://discord.gg/Qfb6NGZkNn)
 

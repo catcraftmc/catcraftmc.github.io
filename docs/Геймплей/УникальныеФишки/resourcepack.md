@@ -24,11 +24,11 @@ icon: material/download
     === "KSEPSP"
         ### **Список всех вещей из ресурспака KSEPSP:**
 
-        [https://drive.google.com/file/d/1zOkplWss9fNXjJ9LWfUR0NQ5dT_SkdFY/view](https://drive.google.com/file/d/1zOkplWss9fNXjJ9LWfUR0NQ5dT_SkdFY/view)
+        [https://definitelyawhale.github.io/ksepsp_website/](https://definitelyawhale.github.io/ksepsp_website/)
 
-        Более 150 различных текстур на вкус и цвет и для любой РП ситуации!
+        Более 250 различных текстур на вкус и цвет и для любой РП ситуации!
 
-        Огнестрельное оружие, мебель, приборы, шляпы, броня, элитры!
+        Огнестрельное оружие, приборы, шляпы, броня, элитры!
 
         ### **Некоторые переименования удалены:**
 
@@ -37,8 +37,6 @@ icon: material/download
         - Удалены всякие текстуры на мобов и вагонетки
 
         - Удалены флаги или тематика сервера СП
-
-        Да, мы изменили структуру КСЭПСП, но мы его не распространяем - ресурспак кошкокрафта нельзя скачать в свободном доступе или изменить файл, скачанный с сервера!
 
         ВК создателей ресурспака: [https://vk.com/ksepsp](https://vk.com/ksepsp)
 
@@ -152,5 +150,13 @@ icon: material/download
         - Остальное потом...
 
         </div>
+
+    === "RokakaPack"
+
+        Крутой ресурспак, добавляющий много оружия, инструментов и приколов.
+
+        Список всех предметов:
+
+        [ :material-arrow-right-top: Список предметов Rokaka](https://drive.google.com/file/d/1MfgCE7-MASEcsISQ9A9LDMlcr_YcjPos){ .md-button .big-button .md-button--primary }
 
         

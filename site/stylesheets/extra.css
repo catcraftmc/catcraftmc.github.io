@@ -73,6 +73,16 @@ code {
   width: 100%;
 }
 
+.margin-center {
+  margin-left: 150px;
+  margin-right: 150px;
+  text-align: center;
+}
+
+.bigger-text {
+  font-size: 1rem;
+}
+
 .md-typeset h1 {
   color: #8758f3; 
   font-weight: bold;
@@ -85,6 +95,11 @@ code {
 
 .shadow {
   text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+.image-shadow {
+  -webkit-filter: drop-shadow(5px 5px 5px #222);
+  filter: drop-shadow(5px 5px 5px #000000);
 }
 
 @keyframes lights {
