@@ -83,6 +83,19 @@ code {
   font-size: 1rem;
 }
 
+.spoiler {
+  background-color: #000000;
+  color: #000000;
+  border: 1px #000; /* Dotted border */
+  border-radius: 5px;
+}
+
+.spoiler:hover, .spoiler:focus {
+  background: transparent;
+  color: inherit;
+}
+
+
 @media (max-width: 768px) {
   .margin-center {
     margin-left: 20px; /* Smaller margin for mobile */
